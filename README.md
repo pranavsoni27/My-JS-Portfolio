@@ -1,5 +1,8 @@
 # Animated Personal Portfolio 🚀
 
+![Screenshot 2024-05-20 221911](https://github.com/pranavsoni27/My-JS-Portfolio/assets/130215829/612052a4-f871-4546-b868-c3a91e8578ad)
+
+
 Welcome to my Animated Personal Portfolio project repository! This project aims to create a visually appealing and interactive portfolio website using HTML, CSS, JavaScript, Shery.js, Typed.js, and more. It's designed to showcase my skills, projects, and experiences in a creative and engaging way.
 
 ## Features
